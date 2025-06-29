@@ -3,6 +3,8 @@ layout: home
 title: Genética Mendeliana
 ---
 
+##Trocar tema [🔘](https://gustavoapolonio.github.io/GeneticaMendeliana/)
+
 # 🧬 Genética Mendeliana (resumo)
 
 É o estudo de como as características genéticas são herdadas dos pais para os filhos.  
