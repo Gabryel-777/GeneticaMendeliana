@@ -3,7 +3,7 @@ layout: home
 title: Genética Mendeliana
 ---
 
-##Trocar tema [🔘](https://gustavoapolonio.github.io/GeneticaMendeliana/)
+## Trocar tema [🔘](https://gustavoapolonio.github.io/GeneticaMendeliana/)
 
 # 🧬 Genética Mendeliana (resumo)
 
